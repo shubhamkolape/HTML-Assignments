@@ -5,7 +5,7 @@
 4. School Time Table
 5. Video in web Page
 
-![Image](./1%20.png)
+![Image](./image.png)
 
 ![Image](./2.png)
 
